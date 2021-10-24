@@ -1,0 +1,28 @@
+Filled container:
+0 : It is aphorism:  rvhpaoias'hpkwl$feaedipfgewazxd-ro#amcmzúÏpƒâ8 
+Name of the author of the aphorism:  zjo 
+1 : It is riddle:  gjiwa(,e.*cogramûÏp‚ç8 
+It is answer to the riddle:  fhwytmtdûÏp‚æ8 
+2 : It is proverb:  yraha)vhqftuurrziwkq%ejqh 
+It is proverb country:  jlÆ 
+3 : It is riddle:  udgabk yyadrolxvnh6 
+It is answer to the riddle:  nvÆ 
+4 : It is proverb:  frekr*nlgebvtpSEûÏp‚ç8 
+It is proverb country:  pyÆ 
+5 : It is proverb:  xyfpp$qqafosauxhluo 
+It is proverb country:  oajpzaÆ 
+6 : It is proverb:  a ukyssz#nenofSOŽü`OE 
+It is proverb country:  eoÆ 
+7 : It is aphorism:  nfj'afwizcr&ivuddxgzbgx+wo(erksbpindows pûOO\ 
+Name of the author of the aphorism:  nihjÀ 
+8 : It is riddle:  tfxbdpfhodwgmwzuqqiucn+x+sj+kjhwwdoy$aes~ûqOs 
+It is answer to the riddle:  a 
+9 : It is riddle:  e#Æ 
+It is answer to the riddle:  pliiykiiúÏpƒæ8 
+Container contains  10  elements.
+New container size after deleting=  2 
+ 1 : It is riddle:  gjiwa(,e.*cogramûÏp‚ç8 
+It is answer to the riddle:  fhwytmtdûÏp‚æ8 
+9 : It is riddle:  e#Æ 
+It is answer to the riddle:  pliiykiiúÏpƒæ8 
+Container contains  2  elements.
